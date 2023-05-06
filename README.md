@@ -5,3 +5,5 @@ A Simple Password manager-ish Written in rust. Just a basic implemtantion
 - A TUI Menu
 - Unix support
 - A builttin password wiever
+- Linux support
+- Nonhardcoded Path
